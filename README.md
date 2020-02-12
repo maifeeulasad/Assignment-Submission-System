@@ -1,2 +1,7 @@
-# Assignment-Submission-System
-Assignment Submission System a web application to submit assignments in a better way.
+<h1 align="center">Welcome to Assignment-Submission-System 👋</h1>
+<p>
+</p>
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
