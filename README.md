@@ -25,50 +25,50 @@
   Only if you are interested, you can check out some snap of the current system :
   
   ### Login/Register
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/login.png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/login (2).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/login (3).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/login (4).png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/login_1.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/login_2.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/login_3.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/login_4.png)
   
   
   ### Profile
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/profile.png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/profile (2).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/profile (3).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/profile (4).png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/profile_1.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/profile_2.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/profile_3.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/profile_4.png)
   
   
   ### Home
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home.png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home (2).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home (3).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home (4).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home (5).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home (6).png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home_1.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home_2.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home_3.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home_4.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home_5.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/home_6.png)
   
 
   
   ### Create Assignment
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/create.png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/create (2).png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/create_1.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/create_2.png)
   
   
   
   ### Assignment
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/assignment.png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/assignment (2).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/assignment (3).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/assignment (4).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/assignment (5).png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/assignment_1.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/assignment_2.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/assignment_3.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/assignment_4.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/assignment_5.png)
   
   
   ### Evaluate
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/evaluate.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/evaluate_1.png)
   
   
   
   ### Admin Panel
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/admin.png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/admin (2).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/admin (3).png)
-  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/admin (4).png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/admin_1.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/admin_2.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/admin_3.png)
+  ![](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/Screenshots/admin_4.png)
