@@ -11,7 +11,7 @@
 
 
  ## Presentation
-  Check out the presentation [here](https://github.com/maifeeulasad/Assignment-Submission-System/blob/master/presentation/README.md)
+  Check out the presentation [here](./presentation/README.md)
 
 
  ## Further Development
